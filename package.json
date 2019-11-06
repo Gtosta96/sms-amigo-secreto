@@ -1,0 +1,9 @@
+{
+  "name": "sms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "totalvoice-node": "^1.7.3"
+  }
+}
